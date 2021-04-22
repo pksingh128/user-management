@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Piazzolla:wght@200;300;400;900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Piazzolla', serif;
+}
+
+.user{
+    margin: 5px;
+    box-shadow: 0 27px 55px 0 rgba(8, 8, 8, 0.3), 0 17px 17px 0 rgba(206, 139, 139, 0.15);
+}
+.login{
+    background-color: #000;
+    height: 400px;
+    opacity: 0.8;
+    margin-top: 100px;
+}
+
+
+#footer{
+    clear: both;
+    height: 100px;
+    margin-top: 210px;
+    position: relative;
+    
+    
+}
